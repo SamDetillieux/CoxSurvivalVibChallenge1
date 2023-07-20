@@ -9,7 +9,7 @@ Legend:
 
 Treatment - 1/C=Resistant, 2/B=Susceptable, 3/A=control
 
-Genetics - 1=Resistant, 2=Susceptable 3=TrueControl
+Genetics - 1=Resistant, 2=Susceptable, 3=TrueControl
 
 Dose - 1=None, 2=Vibrio
 
